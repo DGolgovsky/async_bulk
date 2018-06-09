@@ -3,7 +3,7 @@ Homework 11 task. [OTUS C++]
 
 [![Build Status](https://travis-ci.org/DGolgovsky/async_bulk.svg?branch=master)](https://travis-ci.org/DGolgovsky/async_bulk)
 [![Code Health](https://landscape.io/github/DGolgovsky/async_bulk/master/landscape.svg?style=flat)](https://landscape.io/github/DGolgovsky/async_bulk/master)
-[ ![Download](https://api.bintray.com/packages/dgolgovsky/otus-cpp/async_bulk/images/download.svg) ](https://bintray.com/dgolgovsky/otus-cpp/async_bulk/_latestVersion)
+[ ![Download](https://api.bintray.com/packages/dgolgovsky/otus-cpp/async/images/download.svg) ](https://bintray.com/dgolgovsky/otus-cpp/async/_latestVersion)
 
 **Task description**
 
